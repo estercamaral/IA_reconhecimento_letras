@@ -1,0 +1,10 @@
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\bin\Debug\ReconhecimentoLetras.exe.config
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\bin\Debug\ReconhecimentoLetras.exe
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\bin\Debug\ReconhecimentoLetras.pdb
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.csproj.AssemblyReference.cache
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.Form1.resources
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.Properties.Resources.resources
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.csproj.GenerateResource.cache
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.csproj.CoreCompileInputs.cache
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.exe
+C:\Área de Trabalho\Ester\ReconhecimentoLetras\obj\Debug\ReconhecimentoLetras.pdb
